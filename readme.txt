@@ -1,13 +1,7 @@
-make 방법
->> make clean -> make main 순서대로 실행하면 됩니다
-
-debug 방법
->> make clean -> make main_debug 순서대로 실행하면 됩니다
-
-실행파일 실행방법
->> ./main을 실행하면 됩니다
-
-<메인메뉴 설명>
+make 방법: make clean -> make main 순서대로 실행하면 됩니다
+debug 방법: make clean -> make main_debug 순서대로 실행하면 됩니다
+실행파일 실행방법: ./main을 실행하면 됩니다
+메인메뉴 설명
 1. create_sche: 새로운 과목 스케줄을 추가합니다
 2. read_sche: 현재 과목 스케줄에서 과목 하나의 스케줄을 읽어옵니다
 3. update_sche: 현재 과목 스케줄에서 과목 하나의 스케줄을 업데이트합니다
